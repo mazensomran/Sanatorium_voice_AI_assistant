@@ -47,8 +47,8 @@ graph LR
     B --> G[CRM Data Formatter]
     G --> H[External Systems]
 
-## Installation Guide <a name="installation-guide"></a>
 
+## Installation Guide <a name="installation-guide"></a>
 ### Prerequisites
 - Python 3.8+
 - [GigaChat developer account](https://developers.sber.ru/)
