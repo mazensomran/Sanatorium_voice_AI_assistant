@@ -45,7 +45,7 @@ graph LR
     D --> E[Output Formatting]
     E --> F[User Response]
     B --> G[CRM Data Formatter]
-    G --> H[External Systems]\n
+    G --> H[External Systems]  
 
 
 ## Installation Guide <a name="installation-guide"></a>
