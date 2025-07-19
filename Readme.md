@@ -9,11 +9,7 @@
 2. [Key Features](#key-features)
 3. [Technical Architecture](#technical-architecture)
 4. [Installation Guide](#installation-guide)
-5. [Core Modules](#core-modules)
-6. [Usage Examples](#usage-examples)
-7. [API Reference](#api-reference)
-8. [Testing](#testing)
-9. [License](#license)
+5. [License](#license)
 
 ## Project Overview <a name="project-overview"></a>
 
@@ -50,3 +46,42 @@ graph LR
     E --> F[User Response]
     B --> G[CRM Data Formatter]
     G --> H[External Systems]
+
+## Installation Guide <a name="installation-guide"></a>
+
+### Prerequisites
+- Python 3.8+
+- [GigaChat developer account](https://developers.sber.ru/)
+- Basic server environment
+
+### Setup Instructions
+
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/sanatorium-ai-assistant.git
+cd sanatorium-ai-assistant
+
+## 📜 License 
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for full details.
+
+### Permissions ✅
+- Commercial use
+- Modification
+- Distribution  
+- Private use
+
+### Limitations ❌
+- Liability
+- Warranty
+
+### Requirements 📝
+- Include original license and copyright notice
+- State all significant changes
+
+```text
+MIT License
+
+Copyright (c) [year] [fullname]
+
+Permission is hereby granted...
